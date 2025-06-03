@@ -53,11 +53,11 @@ Boxplot para comparar a distribuição da satisfação por categoria de distribu
 
 ---
 
-### 5️⃣ Média de Satisfação por Agente
+### 5️⃣ Média de Satisfação por ano
 
-Visualização da média de satisfação para cada agente (distribuidora).
+Visualização da média de satisfação por ano.
 
-![Média de Satisfação por Agente](imagens/media_satisfacao_agente.png)
+![Média de Satisfação por Agente](imagens/satisfacao_media_ano.png)
 
 ---
 
