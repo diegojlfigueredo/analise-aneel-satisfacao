@@ -41,7 +41,7 @@ Este gráfico mostra a média de satisfação segmentada por classificação de 
 
 Análise da correlação entre os principais indicadores de satisfação e qualidade.
 
-![Matriz de Correlação](imagens/matriz_correlacao.png)
+![Matriz de Correlação](imagens/mapa_correlacao.png)
 
 ---
 
