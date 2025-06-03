@@ -1,4 +1,4 @@
-(imagens/aneel.png)
+![Distribuição das Notas de Satisfação](imagens/aneel.png)
 
 
 # Análise de Satisfação do Consumidor ANEEL
